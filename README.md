@@ -15,3 +15,6 @@ For more information on our security information for the project, please refer t
 
 ## Sponsors
 _We're working on publishing this information soon!_
+
+## Acknowledgements
+_We'd like to provide acknowledgments to the following individuals, organizations, and businesses for supporting the project._
