@@ -4,4 +4,4 @@
 # Overview
 This document provides attribution, ackowledgements, and other information related to the project.
 
-> **masthead**: _the printed matter in a newspaper or periodical that gives the title and details of ownership, advertising rates, and subscription rates._
+> **col·o·phon**: _a statement at the end of a book, typically with a printer's emblem, giving information about its authorship and printing._
