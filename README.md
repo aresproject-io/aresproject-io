@@ -13,5 +13,5 @@ For more information on how you can contribute to the project, please refer to [
 ## Security
 For more information on our security information for the project, please refer to [Security](https://github.com/aresproject-io/aresproject-io/blob/main/SECURITY.md).
 
-# Sponsors
+## Sponsors
 _We're working on publishing this information soon!_
