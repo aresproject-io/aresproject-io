@@ -1,1 +1,39 @@
+Name: Ares Project
+Website: https://aresproject.io
+Contact: mailto:security@aresproject.io
+Preferred-Languages: en-us
+Policy: https://go.aresproject.io/security
 
+# Report Abuse
+Contact: mailto:security@aresproject.io
+URL: https://go.aresproject.io/report-abuse
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+mQENBGU+ieUBCACVebOYaEzNFf6GIag78aZ2Yh7KNbSXquJGFQwMRZR1kQYGUvYZ
+K/UZQlTd7QLYyvkBMRbG/uhnrUgmUwEYbrPzXj+mdSRe0ORhj/ueHY6RsXro9pHE
+WjuU73YDg/5rdII25AmvsvpXYtjmHrzwbLIDoxSVbhAPU/b3C0FrKiFnMrOxTtWH
+u2+Eo+rG1ngYh0feRe9qY9VB5X//Mpw8+Hlz8OD2YIKcJKhAkHW080py+rzR74Ve
+IBcGIncI1L3HYFVXQFUjiOo2QAnk3XdnR64cD67YTgzjn3SVJTwRCH6IQE5z42fR
+Xa0krxYJ25fYwqO0sJGogcPrIUoPKDVquWsBABEBAAG0MXNlY3VyaXR5QGFyZXNw
+cm9qZWN0LmlvIDxzZWN1cml0eUBhcmVzcHJvamVjdC5pbz6JAUoEEAEIAB0FAmU+
+ieUECwkHCAMVCAoEFgACAQIZAQIbAwIeAQAhCRANhpqg3gRRLhYhBM9gL92J3hbb
+Ixy2Ug2GmqDeBFEunqEH/R2+EMBo0QJfgkEw7n5sYTcPpZQeo/pB66OIrGgNpOX4
+2Ha7ITNQ5ZwLZf4BQ8KIZr0NDlIcrCr/3rHMHjQfj6qizvfnKYcCCTFp66at5zpG
+oEfKjWokm9pUtFFZAU7hcX/YzvdBX+CN1fWQOGJHnZwCum5snZyg8a0Ra5lTepUz
+znHNuvePsS6X0Mhctv4Rz8TXSKVjS6HS8THDdr9UQX1b1pXcBx10PvzY1RNMdFdo
+OaXjMyDbLFtGmVtINDeTpX9uElMFtzOTksDOQ5e524uDCtH+JXgddrmz3rPXAq6S
+CxblQwCxjwdz6xKcr0QWmV+qkwexitYrqgdD8ByFIYC5AQ0EZT6J5QEIAIOEwz/2
+xtN0IsMYtUNwWkC2/OpZuJp5SUpxIj6Rz+8rIB9T7zpKzKOA6EsZce6nGJx3A7EL
++DH7A+R2TfmnmtN6rnngh/Q1ksPgUMkqLBCbpNVZholUeEjoOM/27oD4nbMZ6v8J
+WMylp1M56ozZHsQFE6HtU6OIyriOedDISCVQN4hRAVuxeqeTB9q0Tx6JBiUXkdzd
+ZPEkbf0kcrpQwb7yja5dkDJcLnw9X1reIJqEHfQjE8Axru6GFeBPPui87bxrZ9uT
+kWGkh7zZKQjOeFXQKYnIUUnmsMQaDh2yB21vIhe5DPIgBrL9Oev2Zz0TUnB6wdMp
+0i+kTKib3QWhgOEAEQEAAYkBNgQYAQgACQUCZT6J5QIbDAAhCRANhpqg3gRRLhYh
+BM9gL92J3hbbIxy2Ug2GmqDeBFEuOgsH/i8MOQBU1bt/plWRT9ZkNepL0EBKWKBc
+lRd181BE3AfkC114eC+rBWQ+wmGWuh/2yN0gR0j+mCpTnBFUO/XeCMNwTLPzWu89
+R482AOB7Fp4vct1CPk2TraJ8/B8Sr+jukgK+OnD8pIjXHRo/moip7n0ihc8td3/p
+OmRyUsvO/k2A0D5lgauDU4xBfqj3L+2tYDkVMiCB+ZJc/kHguhNbXPL0zkw9bqE/
+sD2bBe/BbLKhzjAqkEvASE9TNceb2ge4kh1Z9hEGtcvQz9zP5UrTE1ADoYuAkSFB
+pNbWRoLZYVpuCGsfUHEjIxOX0QcfIQZvkiDau1thWTuZ+tw33tfNtyc=
+=Vtjg
+-----END PGP PUBLIC KEY BLOCK-----
