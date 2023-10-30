@@ -1,16 +1,19 @@
-# Citizen Code of Conduct
+# Code of Conduct
 
 ## 1. Purpose
 
-A primary goal of Ares Project is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of Ares Project is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior. 
 
 We invite all those who participate in Ares Project to help us create safe and positive experiences for everyone.
 
-## 2. Open [Source/Culture/Tech] Citizenship
+## Our Mission
+The Ares Project's mission is to build a thriving community-driven knowledge base and resource center that empowers cybersecurity and IT professionals to excel in their fields, safeguard digital environments, and stay ahead of the ever-changing threat landscape. We are committed to providing a supportive environment where collaboration, innovation, and inclusivity drive excellence.
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+## 2. Open Source Citizenship
+
+A supplemental goal of this Code of Conduct is to increase open open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
@@ -59,15 +62,11 @@ If a community member engages in unacceptable behavior, the community organizers
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. hello@aresproject.io.
 
-
-
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 8. Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Ares Project Board with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
-
-
 
 ## 9. Scope
 
@@ -84,11 +83,3 @@ hello@aresproject.io
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
-
-_Revision 2.3. Posted 6 March 2017._
-
-_Revision 2.2. Posted 4 February 2016._
-
-_Revision 2.1. Posted 23 June 2014._
-
-_Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
