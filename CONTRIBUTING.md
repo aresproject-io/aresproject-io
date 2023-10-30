@@ -1,6 +1,3 @@
-> [!NOTE]  
-> _We are currently in the process of updating this file._
-
 # Overview
 Thank you for your interest in contributing to the Ares Project. We welcome contributions from individuals who share our passion for cybersecurity, information technology, and helping provide resources to those of us in the field. Please take a moment to review these guidelines to ensure a smooth and collaborative experience.
 
