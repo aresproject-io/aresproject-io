@@ -7,9 +7,6 @@ Welcome to the new home of the Ares Project Tools! We are currently working on b
 ## Mission
 The Ares Project's mission is to build a thriving community-driven knowledge base and resource center that empowers cybersecurity and IT professionals to excel in their fields, safeguard digital environments, and stay ahead of the ever-changing threat landscape. We are committed to providing a supportive environment where collaboration, innovation, and inclusivity drive excellence.
 
-## Contributing
-For more information on how you can contribute to the project, please refer to [Contributing](https://github.com/aresproject-io/aresproject-io/blob/main/CONTRIBUTING.md).
-
 ## Security
 For more information on our security information for the project, please refer to [Security](https://github.com/aresproject-io/aresproject-io/blob/main/SECURITY.md).
 
@@ -18,3 +15,14 @@ _We're working on publishing this information soon!_
 
 ## Acknowledgements
 _We'd like to provide acknowledgments to the following individuals, organizations, and businesses for supporting the project._
+
+## Contributing
+For more information on how you can contribute to the project, please refer to [Contributing](https://github.com/aresproject-io/aresproject-io/blob/main/CONTRIBUTING.md).
+
+
+
+<a href="https://github.com/aresproject-io/aresproject-io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aresproject-io/aresproject-io" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
