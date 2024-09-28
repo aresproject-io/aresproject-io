@@ -19,8 +19,7 @@ _We'd like to provide acknowledgments to the following individuals, organization
 ## Contributing
 For more information on how you can contribute to the project, please refer to [Contributing](https://github.com/aresproject-io/aresproject-io/blob/main/CONTRIBUTING.md).
 
-
-
+### Our Contributors 
 <a href="https://github.com/aresproject-io/aresproject-io/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=aresproject-io/aresproject-io" />
 </a>
